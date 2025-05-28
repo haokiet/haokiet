@@ -5,11 +5,11 @@
 <div style={display: flex}>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **VNPT**
+- 🔭 I’m currently working on **HCM57 Technology**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **ASP.NET, REACTJS, Laravel**
+- 💬 Ask me about **ASP.NET, REACTJS, Laravel, Nestjs, Nextjs, Python, Golang**
 
 - 📫 How to reach me **kietkhan0@gmail.com**
   
